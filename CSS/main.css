@@ -1,1 +1,18 @@
-m
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+PT+Serif
+PT+Sans
+background-color
+color
+#c9b5ab`, `#8f2440`, `#222`, `#3f1622`
+line-height
+font
+font-weight: normal
+text-decoration
+list-style-type
