@@ -6,13 +6,15 @@ html {
   box-sizing: inherit;
 }
 
-PT+Serif
-PT+Sans
-background-color
-color
-#c9b5ab`, `#8f2440`, `#222`, `#3f1622`
-line-height
-font
-font-weight: normal
-text-decoration
-list-style-type
+
+body{
+  background-color #ccc;
+  font-family:sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+
+  article {
+    font-style: italic
+    color: #666;}
