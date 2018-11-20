@@ -7,9 +7,9 @@ html {
 }
 
 
-body{
-  background-color #ccc;
-  font-family:sans-serif;
+body {
+  background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
 }
 
 h1 {
@@ -17,4 +17,5 @@ h1 {
 
   article {
     font-style: italic
-    color: #666;}
+    color: #666;
+  }
