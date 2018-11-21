@@ -11,6 +11,8 @@ body {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   color: #222;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 h1 {
@@ -28,6 +30,7 @@ nav ol li a {
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
   color: #8f2440;
+  font-size: 1.19rem;
 }
 
 figcaption {
@@ -40,7 +43,7 @@ figcaption {
 }
 
 blockquote:nth-of-type(1) {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   font-style: italic;
   font-weight: bold;
 }
@@ -59,6 +62,10 @@ ul li {
   list-style-type: circle;
 }
 
+a {
+  text-decoration: none;
+}
+
 footer a {
   text-decoration: none;
   color: #8f2440;
@@ -67,4 +74,16 @@ footer a {
 dt {
   font-weight: bold;
   font-size: 1.2rem;
+}
+
+img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #3f1622;
 }
