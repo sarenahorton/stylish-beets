@@ -6,7 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-
 body {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
@@ -40,6 +39,7 @@ figcaption {
 
 .bold-paragraph {
   font-weight: bold;
+  font-size: 1.2rem;
 }
 
 blockquote:nth-of-type(1) {
